@@ -1,0 +1,37 @@
+{
+  "DPPPPXW-1A": "Instinto básico. Regla número uno: lo más lejos de la puerta. No quieres que alguien te golpee con la manija justo al entrar, o ser el comité de bienvenida para cada recién llegado.",
+  "WXPPPPD-1B": "Base espejo. Igual que 1A, solo del otro lado. La pared es tu escudo, la puerta es la amenaza.",
+  
+  "DXPPPOW-2A": "Retiro táctico. Ese primer tipo tomó astutamente el lugar de la pared. No te queda más que ir directo a la puerta. Lo más lejos de él posible, hoy no hay inspección de equipos ajenos.",
+  "WOPPPXD-2B": "Extremo opuesto. ¿Te quitó el lugar de la puerta? No importa, vete a la pared. Como se dice, los opuestos no se atraen.",
+  "DPPPXOW-2C": "Vanguardia. El tipo de la pared lo tomó responsablemente. Debes dejar un espacio, pero no tienes que ir hasta la puerta. Dos posiciones libres son un lujo.",
+  "WOXPPPD-2D": "Defensa en la pared. Él está en la puerta, tú te retiras. Aquí estás seguro, protegido de la corriente.",
+  
+  "DOPXPOW-3A": "Simetría perfecta. El centro dorado está ocupado. Deja un espacio a la izquierda y a la derecha. El santo grial de la distancia del urinario. Zona de paz garantizada.",
+  "WXPPOOD-3B": "Mal necesario en el borde. Dos amigos charlando en la puerta. Tú vas directo a la pared. Déjalos trinar allí solos.",
+  "DOOPPXW-3C": "Escape de la manada. Está lleno en la puerta. Ve tan lejos en la esquina como sea posible. Minimiza la posibilidad de contacto visual cuando se vayan.",
+  "WPOXPOD-3D": "Rompegrupos. ¿Te pusieron en el medio? Tómalo. Divide su extraña formación y establece orden.",
+  
+  "DOPXOOW-4A": "Zona de amortiguamiento. Dos tipos a la derecha y uno en la puerta. Te toca el lugar entre ellos. Justo, pero al menos tienes un lado cubierto por un espacio vacío.",
+  "WXOPOPD-4B": "Rodeado por el tipo de la pared. El de la pared lo tomó. El centro se llena. Debes ir a la esquina, aunque esté más cerca de otros, al menos el hormigón frío te cubre.",
+  "DXPOOPW-4C": "Soldado en retirada. Lleno en la pared y al centro. Vas a la puerta, aunque arriesgues que te golpee la manija en la espalda. Mejor que apretujarse en la multitud.",
+  "WPOOPXD-4D": "Reserva. Exactamente lo mismo del otro lado. Mejor en la puerta que arriesgar contacto visual con los señores del centro.",
+  
+  "DOXPOOW-5A": "Jaque-mate desde la izquierda. Tres tipos lo bloquearon. Debes meterte en esa rendija de la puerta. Intenta mirar directo frente a ti y respira por la boca.",
+  "WXOPOOD-5B": "Pegote. Un grupo de tres se pegó cerca de la entrada. En la pared tienes asilo. Puedes pretender que no perteneces a la misma habitación en absoluto.",
+  "DOOPXOW-5C": "Compromiso no deseado. Entre dos señores hay espacio, pero a la derecha hay otro. Eliges el mal menor, al menos en el lado izquierdo tienes paz.",
+  "WOOPOXD-5D": "Riesgo de puerta. Situación similar. Dos en la pared, uno más allá. Debes elegir el lugar de la puerta para minimizar contacto.",
+  
+  "DOXOPOW-6A": "Laberinto. ¿Alternativamente ocupado? Esto es terror. Cada elección es mala. Elijes X porque... honestamente, es una lotería. Respira hondo y concéntrate en los azulejos.",
+  "WXOXOPD-6B": "Laberinto espejo. El mismo horror, solo con la pared detrás de ti. Regla de oro: no hables, no te mezas, y sobre todo no apuntes torcido.",
+  "DPOXOPW-6C": "Trampa para osos. Todos están de forma que cada elección significa estar al lado de alguien. Este lugar X te da al menos un espacio por un lado. Sé agradecido.",
+  "WPOXOOD-6D": "Solución extrema. Grupo de 2 y 1 solitario. Eliges el espacio entre los males menores.",
+  
+  "DOOOXPW-7A": "Terapia de grupo. ¿Cuatro tipos en fila? ¡Eso suena a teambuilding corporativo! Vas justo al lado. Solo no te unas al canto, si por casualidad empiezan.",
+  "WPXOOOD-7B": "Instinto de manada en la puerta. Se pegaron como sardinas cerca de la entrada. Tienes una sola opción. La pared. Y espera no perder la paciencia antes de que se vayan.",
+  "DOXOOOW-7C": "Compromiso central. Ocupado en los bordes y el centro. Esta X es la única oportunidad de estar al lado de dos personas al mismo tiempo y sentirte absolutamente cortado del mundo.",
+  "WOOOXPD-7D": "Último mosquetero. Tres en fila desde la pared. Queda una P. Vas allí, te conviertes en el cuarto mosquetero, y rezas para que no se giren hacia ti.",
+  
+  "DOOOOXW-8A": "Última concha vacía. Nada que elegir. Simplemente ve allí, haz lo que debas, y desaparece. Las manos las puedes lavar en casa. (O al menos rápido).",
+  "WXOOOOD-8B": "Soledad de pared. La misma miseria, solo que puedes tocar la pared con el hombro para apoyo psicológico."
+}

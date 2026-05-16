@@ -1,0 +1,37 @@
+{
+  "DPPPPXW-1A": "Basic instinct. Rule number one: as far from the door as possible. You don't want someone to hit you with the door handle right at the entrance, or be the welcoming committee for every newcomer.",
+  "WXPPPPD-1B": "Mirror basic. Same as 1A, just from the other side. The wall is your shield, the door is the threat.",
+  
+  "DXPPPOW-2A": "Tactical retreat. That first guy smartly took the wall spot. You have no choice but to go straight to the door. As far from him as possible - no inspection of other people's equipment today.",
+  "WOPPPXD-2B": "Opposite extreme. He took your door spot? No problem, head to the wall. As they say, opposites don't attract.",
+  "DPPPXOW-2C": "Vanguard. The guy at the wall took it responsibly. You must leave a gap, but don't have to go all the way to the door. Two free positions are a luxury.",
+  "WOXPPPD-2D": "Wall defense. He's at the door, you retreat. Here you're safe, protected from the draft.",
+  
+  "DOPXPOW-3A": "Perfect symmetry. The golden center is taken. Leave a gap on both left and right. The holy grail of urinal distance. Guaranteed peace zone.",
+  "WXPPOOD-3B": "Necessary evil on the edge. Two buddies chatting at the door. You're heading straight for the wall. Let them chirp there by themselves.",
+  "DOOPPXW-3C": "Escape from the herd. It's packed at the door. Go as far into the corner as possible. Minimize the chance of eye contact when they leave.",
+  "WPOXPOD-3D": "Group breaker. They let you in the middle? Take it. Break their weird formation and establish order.",
+  
+  "DOPXOOW-4A": "Buffer zone. Two guys on the right and one at the door. You get the spot between them. Tight, but at least you have one side covered by an empty space.",
+  "WXOPOPD-4B": "Surrounded by the wall guy. He took the wall spot. The center is filling up. You have to go to the corner, even though it's closer to others, at least cold concrete covers you.",
+  "DXPOOPW-4C": "Retreating soldier. Packed at the wall and center. You go to the door, even though you risk getting hit in the back by the handle. Better than squeezing in a crowd.",
+  "WPOOPXD-4D": "Backup. Exactly the same from the other side. Better at the door than risking eye contact with the gentlemen in the middle.",
+  
+  "DOXPOOW-5A": "Check-mate from the left. Three guys blocked it off. You have to squeeze into that gap at the door. Try to look straight ahead and breathe through your mouth.",
+  "WXOPOOD-5B": "Cluster. A group of three stuck together near the entrance. You have asylum at the wall. You can pretend you don't belong in the same room at all.",
+  "DOOPXOW-5C": "Unwanted compromise. There's space between two guys, but another one on the right. You choose the lesser evil, at least you have peace on the left side.",
+  "WOOPOXD-5D": "Door risk. Similar situation. Two at the wall, one further. You must choose the door spot to minimize contact.",
+  
+  "DOXOPOW-6A": "Labyrinth. Alternating occupied? This is terror. Every choice is bad. You choose X because... honestly, it's a lottery. Take a deep breath and focus on the tiles.",
+  "WXOXOPD-6B": "Mirror labyrinth. The same horror, just with the wall behind your back. Golden rule: don't talk, don't sway, and definitely don't aim crooked.",
+  "DPOXOPW-6C": "Bear trap. Everyone stands so that every choice means standing next to someone. This X spot at least gives you a gap on one side. Be grateful for that.",
+  "WPOXOOD-6D": "Edge solution. A group of 2 and 1 lone wolf. You choose the gap between the lesser evils.",
+  
+  "DOOOXPW-7A": "Group therapy. Four guys in a row? Is this some corporate teambuilding! You go right next to them. Just don't join the singing if they start.",
+  "WPXOOOD-7B": "Herd instinct at the door. They stuck together like sardines near the entrance. You have only one choice. The wall. And hope you don't run out of patience before they leave.",
+  "DOXOOOW-7C": "Middle compromise. Occupied at the edges and center. This X is the only chance to stand next to two people at once while feeling absolutely cut off from the world.",
+  "WOOOXPD-7D": "Last musketeer. Three in a row from the wall. One P left. You go there, become the fourth musketeer, and pray they don't turn your way.",
+  
+  "DOOOOXW-8A": "Last empty shell. Nothing to choose from. Just go there, do what you must, and get out. You can wash your hands at home. (Or at least quickly).",
+  "WXOOOOD-8B": "Wall solitude. Same misery, just you can touch the wall with your shoulder for psychological support."
+}
