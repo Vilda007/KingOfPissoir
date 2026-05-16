@@ -1,5 +1,7 @@
 # 🚽 The King of Piss-oirs
 
+**[🎮 Play Demo Online](https://vilda007.github.io/KingOfPissoir/)**
+
 **The ultimate social strategy game about urinal etiquette!**
 
 ![Game Logo](media/pissoir-1-light.png)
