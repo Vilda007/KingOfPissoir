@@ -1,0 +1,37 @@
+{
+  "DPPPPXW-1A": "Grundinstinkt. Regel Nummer eins: So weit wie möglich von der Tür. Du willst nicht, dass dich jemand gleich beim Eingang mit der Klinke trifft, oder dass du jedem Neuankömmling als Willkommenskomitee dienst.",
+  "WXPPPPD-1B": "Spiegelgrundlage. Gleich wie 1A, nur von der anderen Seite. Die Wand ist dein Schild, die Tür ist die Bedrohung.",
+  
+  "DXPPPOW-2A": "Taktischer Rückzug. Der erste Typ hat clever den Platz an der Wand genommen. Du hast keine andere Wahl, als direkt zur Tür zu gehen. So weit wie möglich von ihm entfernt - heute findet keine Inspektion fremder Ausrüstung statt.",
+  "WOPPPXD-2B": "Gegenteiliges Extrem. Er hat deinen Platz an der Tür genommen? Kein Problem, ab zur Wand. Wie man so sagt, Gegensätze ziehen sich nicht an.",
+  "DPPPXOW-2C": "Vorhut. Der Typ an der Wand hat es verantwortungsvoll gemacht. Du musst eine Lücke lassen, aber musst nicht ganz bis zur Tür gehen. Zwei freie Positionen sind Luxus.",
+  "WOXPPPD-2D": "Wandverteidigung. Er ist an der Tür, du ziehst dich zurück. Hier bist du sicher, geschützt vor dem Zugwind.",
+  
+  "DOPXPOW-3A": "Perfekte Symmetrie. Das goldene Zentrum ist besetzt. Lass links und rechts eine Lücke. Der heilige Gral der Pissoir-Distanz. Garantierte Ruhezone.",
+  "WXPPOOD-3B": "Notwendiges Übel am Rand. Zwei Kumpels plaudern an der Tür. Du steuerst direkt auf die Wand zu. Lass sie dort selbst vor sich hin trillern.",
+  "DOOPPXW-3C": "Flucht aus der Herde. An der Tür ist es voll. Geh so weit in die Ecke wie möglich. Minimiere die Chance auf Augenkontakt beim Weggehen.",
+  "WPOXPOD-3D": "Gruppenbrecher. Sie haben dich in die Mitte gelassen? Nimm es. Teile ihre seltsame Formation und stelle Ordnung her.",
+  
+  "DOPXOOW-4A": "Pufferzone. Zwei Typen rechts und einer an der Tür. Du bekommst den Platz zwischen ihnen. Eng, aber wenigstens hast du eine Seite durch einen freien Platz abgedeckt.",
+  "WXOPOPD-4B": "Vom Wandtyp umzingelt. Der an der Wand hat es genommen. Die Mitte füllt sich. Du musst in die Ecke, auch wenn es näher bei anderen ist, wenigstens schützt dich kalter Beton.",
+  "DXPOOPW-4C": "Zurückweichender Soldat. Voll an der Wand und in der Mitte. Du gehst zur Tür, auch wenn du riskierst, von der Klinke in den Rücken getroffen zu werden. Besser als sich in einer Menschenmenge zu quetschen.",
+  "WPOOPXD-4D": "Backup. Genau dasselbe von der anderen Seite. Besser an der Tür als Augenkontakt mit den Herren in der Mitte zu riskieren.",
+  
+  "DOXPOOW-5A": "Schachmatt von links. Drei Typen haben es verbarrikadiert. Du musst in die Ritze an der Tür. Versuch geradeaus zu schauen und durch den Mund zu atmen.",
+  "WXOPOOD-5B": "Klumpen. Eine Gruppe von drei hat sich beim Eingang zusammengeklebt. An der Wand hast du Asyl. Du kannst so tun, als gehörst du überhaupt nicht in denselben Raum.",
+  "DOOPXOW-5C": "Ungewollter Kompromiss. Zwischen zwei Herren ist Platz, aber rechts ist noch einer. Du wählst das kleinere Übel, wenigstens hast du auf der linken Seite Ruhe.",
+  "WOOPOXD-5D": "Türrisiko. Ähnliche Situation. Zwei an der Wand, einer weiter weg. Du musst den Platz an der Tür wählen, um Kontakt zu minimieren.",
+  
+  "DOXOPOW-6A": "Labyrinth. Abwechselnd besetzt? Das ist Terror. Jede Wahl ist schlecht. Du wählst X, weil... ehrlich, es ist ein Lotteriespiel. Atme tief durch und konzentriere dich auf die Fliesen.",
+  "WXOXOPD-6B": "Spiegellabyrinth. Derselbe Horror, nur mit der Wand im Rücken. Goldene Regel: nicht reden, nicht schwanken, und vor allem nicht schief zielen.",
+  "DPOXOPW-6C": "Bärenfalle. Alle stehen so, dass jede Wahl bedeutet, neben jemandem zu stehen. Dieser X-Platz gibt dir wenigstens eine Lücke auf einer Seite. Sei dankbar dafür.",
+  "WPOXOOD-6D": "Randlösung. Gruppe von 2 und 1 Einsamer. Du wählst die Lücke zwischen den kleineren Übeln.",
+  
+  "DOOOXPW-7A": "Gruppentherapie. Vier Typen in einer Reihe? Ist das etwa ein Firmen-Teambuilding! Du gehst direkt daneben. Füge dich nur nicht dem Gesang bei, falls sie anfangen.",
+  "WPXOOOD-7B": "Herdeninstinkt an der Tür. Sie haben sich wie Sardinen beim Eingang zusammengeklebt. Du hast nur eine Wahl. Die Wand. Und hoffe, dass du nicht die Geduld verlierst, bevor sie gehen.",
+  "DOXOOOW-7C": "Mittelkompromiss. Besetzt an den Rändern und in der Mitte. Dieses X ist die einzige Chance, neben zwei Leuten gleichzeitig zu stehen und dich absolut von der Welt abgeschnitten zu fühlen.",
+  "WOOOXPD-7D": "Letzter Musketier. Drei in einer Reihe von der Wand. Ein P bleibt übrig. Du gehst dort hin, wirst zum vierten Musketier und betest, dass sie sich nicht in deine Richtung drehen.",
+  
+  "DOOOOXW-8A": "Letzte leere Muschel. Nichts auszuwählen. Geh einfach hin, mach was du musst, und verschwinde. Hände waschen kannst du zu Hause. (Oder wenigstens schnell).",
+  "WXOOOOD-8B": "Wand-Einsamkeit. Dieselbe Misere, nur kannst du die Wand mit der Schulter berühren für psychische Unterstützung."
+}
