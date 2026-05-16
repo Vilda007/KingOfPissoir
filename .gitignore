@@ -1,0 +1,66 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+pubspec.lock
+build/
+*.dart.js
+*.info.json
+*.js.deps
+*.js.map
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Test coverage
+coverage/
+
+# iOS/XCode specific
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+
+# Android specific
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Web
+web/.dart_tool/
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Firebase
+firebase_options.dart
+
+# Local configuration
+.env
+*.env
